@@ -1,0 +1,63 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Zedna Custom Dashboard Messages\n"
+"POT-Creation-Date: 2019-06-18 11:00+0200\n"
+"PO-Revision-Date: 2019-06-18 11:19+0200\n"
+"Last-Translator: \n"
+"Language-Team: Radek Mezuláník\n"
+"Language: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: custom-dashboard.php:20
+msgid "Dashboard Messages"
+msgstr "Nástěnkové zprávy"
+
+#: custom-dashboard.php:21
+msgid "Dashboard Important!"
+msgstr "Nástěnka Důležité!"
+
+#: custom-dashboard.php:68
+msgid "Important messages"
+msgstr "Důležité zprávy"
+
+#: single-message.php:100
+msgid "Message"
+msgstr "Zpráva"
+
+#: single-message.php:107
+msgid "Logo in message bar"
+msgstr "Logo v liště zprávy"
+
+#: single-message.php:114
+msgid "Logo height"
+msgstr "Výška loga"
+
+#: single-message.php:128 single-message.php:152 single-message.php:191
+msgid "Welcome"
+msgstr "Vítej"
+
+#: single-message.php:128
+msgid "(WP Dash Message)"
+msgstr "(WP Dash Message)"
+
+#. Parameters for options: 1. site header name 2. setting menu bar name
+#. 3. capability (decides whether user has access) 4. menu slug 5. options page function
+#: single-message.php:245
+msgid "Main message"
+msgstr "Hlavní zpráva"
+
+#: single-message.php:259
+msgid "You do not have the permission to modify the custom dashboard message box."
+msgstr "Nemáte oprávnění upravovat vlastní okno s nástěnkovou zprávou."
